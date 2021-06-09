@@ -1,0 +1,18 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "../home/homedesign/css/grayscale.min.css";
+@import "../home/homedesign/fontawesome-free/css/all.min.css";
+@import "../home/homedesign/adminlte/dist/css/adminlte.min.css";
+@import "../home/homedesign/adminlte/plugins/overlayScrollbars/css/OverlayScrollbars.min.css";
+@import "../home/homedesign/adminlte/plugins/jqvmap/jqvmap.min.css";
+@import "../home/homedesign/adminlte/plugins/daterangepicker/daterangepicker.css";
+@import "../home/homedesign/adminlte/plugins/summernote/summernote-bs4.min.css";
+@import "../home/homedesign/adminlte/plugins/icheck-bootstrap/icheck-bootstrap.min.css";
+@import "../home/homedesign/adminlte/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css";
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback";
+@import "https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css";
+
+
+.dropdown-toggle {
+    cursor: pointer;
+}

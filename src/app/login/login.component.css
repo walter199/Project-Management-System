@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "./logindesign/animate.css/animate.css";
+@import "./logindesign/css/custom.min.css";
+@import "./logindesign/font-awesome/css/font-awesome.min.css";
+@import "./logindesign/nprogress/nprogress.css";
+@import "../home/homedesign/fontawesome-free/css/all.min.css";
+@import "../home/homedesign/adminlte/dist/css/adminlte.min.css";
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback";
+
+
+.dropdown-toggle {
+    cursor: pointer;
+}
